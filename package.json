@@ -1,0 +1,30 @@
+{
+    "author": "stephenjmatta@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchme",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "watchme",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "7dfca9f7-5c7a-44c6-bc39-645798f7543d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

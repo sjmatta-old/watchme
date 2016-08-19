@@ -1,0 +1,22 @@
+{
+  "name": "watchme",
+  "author": "Stephen Matta",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "watchme",
+    "uuid": "7dfca9f7-5c7a-44c6-bc39-645798f7543d",
+    "projectType": "rocky",
+    "sdkVersion": "3",
+    "esversion": "6",
+    "enableMultiJS": true,
+    "watchapp": {
+      "watchface": true
+    },
+    "resources": {
+      "media": []
+    }
+  }
+}
